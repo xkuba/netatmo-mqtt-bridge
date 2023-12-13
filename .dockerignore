@@ -22,4 +22,4 @@
 **/values.dev.yaml
 LICENSE
 README.md
-**/last_refreshtoken.txt
+**/last_accesstoken.txt

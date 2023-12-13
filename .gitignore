@@ -133,4 +133,5 @@ dist
 .env
 .vscode
 docker
-**/last_refreshtoken.txt
+**/last_accesstoken.txt
+.DS_Store

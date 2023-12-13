@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "private": true,
   "author": {
-    "name": "Michael Engel",
-    "email": "pimpraider@gmail.com",
-    "url": "https://github.com/3engel"
+    "name": "Tomas Kubicek",
+    "email": "kuba@xkuba.net",
+    "url": "https://github.com/xkuba"
   },
   "repository": {
-    "url": "https://github.com/3engel/netatmo-mqtt-bridge"
+    "url": "https://github.com/xkuba/netatmo-mqtt-bridge"
   },
   "license":"MIT",
   "scripts": {
